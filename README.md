@@ -87,7 +87,7 @@
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khodjiyev2o&show_icons=true" align="center" />
-  <img src="https://github-profile-trophy.vercel.app/?username=khodjiyev2o&theme=onedark" align="center" />
+  
 </div>  
 
 <br/>  
