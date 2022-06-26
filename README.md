@@ -1,7 +1,6 @@
 
 
 
-**khodjiyev2o/khodjiyev2o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
