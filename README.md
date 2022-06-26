@@ -89,7 +89,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=khodjiyev2o&show_icons=true" align="center" />
 </div>  
 <br/>  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khodjiyev2o&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=khodjiyev2o&hide_border=true&date_format=j%20M%5B%20Y%5D" align="center" />
+</div>  
+<br/> 
+
 
 
 ## Recent Blog Posts  
