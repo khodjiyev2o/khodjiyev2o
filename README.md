@@ -2,7 +2,7 @@
 
 
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+
   
 
 ### <div align="center">I'm Samandar, Back-End  developer 👨‍💻 working remotely since 2021 🚀</div>  
