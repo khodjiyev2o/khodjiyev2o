@@ -5,7 +5,7 @@
 
   
 
-### <div align="center">I'm Samandar, Back-End  developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Samandar, PYTHON (Django Back-End  developer 👨‍)💻 </div>  
   
 
 - 🔭 I’m currently working on [React Project]( https://github.com/khodjiyev2o/React-Project)  
