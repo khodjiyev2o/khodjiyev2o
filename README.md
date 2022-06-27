@@ -8,7 +8,7 @@
 ### <div align="center">I'm Samandar, Back-End  developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Whatsapp Clone](https://github.com/khodjiyev2o/Whatsapp-Clone)  
+- 🔭 I’m currently working on [React Project]( https://github.com/khodjiyev2o/React-Project)  
   
 
 - 🌱 I’m currently learning CI/CD and Docker  
