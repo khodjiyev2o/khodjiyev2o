@@ -8,7 +8,7 @@
 ### <div align="center">I'm Samandar, PYTHON (Django Back-End  developer 👨‍💻 ) </div>  
   
 
-- 🔭 I’m currently working on [React Project]( https://github.com/khodjiyev2o/React-Project)  
+- 🔭 I’m currently working on [Whatsapp clone]( https://github.com/khodjiyev2o/Whatsapp-Clone)  with [Front-End Developer](https://github.com/IsmailovSardorbek)
   
 
 - 🌱 I’m currently learning CI/CD and Docker  
