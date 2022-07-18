@@ -9,7 +9,8 @@
   
 
 - 🔭 I’m currently working on [Whatsapp clone]( https://github.com/khodjiyev2o/Whatsapp-Clone)  with [Front-End Developer](https://github.com/IsmailovSardorbek)
-  
+
+- 👨‍💻 All of my projects are available at [https://khodjiyev2o.github.io/Personal-website/)
 
 - 🌱 I’m currently learning CI/CD and Docker  
   
