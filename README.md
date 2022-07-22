@@ -8,11 +8,11 @@
 ### <div align="center">I'm Samandar, PYTHON (Django Back-End  developer 👨‍💻 ) </div>  
   
 
-- 🔭 I’m currently working on [Whatsapp clone]( https://github.com/khodjiyev2o/Whatsapp-Clone)  with [Front-End Developer](https://github.com/IsmailovSardorbek)
+- 🔭 I’m currently working on [Quiz App](https://github.com/khodjiyev2o/Quiz-App)
 
 - 👨‍💻 All of my projects are available on my [Website](https://khodjiyev2o.github.io/Personal-website/)
 
-- 🌱 I’m currently learning CI/CD and Docker  
+- 🌱 I’m currently learning CI/CD and AWS
   
 
 - ❓ Ask me about anything related to Django  and related technologies  
