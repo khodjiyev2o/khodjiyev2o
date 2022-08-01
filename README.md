@@ -8,7 +8,7 @@
 ### <div align="center">I'm Samandar, PYTHON (Django Back-End  developer 👨‍💻 ) </div>  
   
 
-- 🔭 I’m currently working on [Quiz App](https://github.com/khodjiyev2o/Quiz-App)
+- 🔭 I’m currently working on [Google Scraper for Upwork Client ](https://github.com/khodjiyev2o/Google-Scraper)
 
 - 👨‍💻 All of my projects are available on my [Website](https://khodjiyev2o.github.io/Personal-website/)
 
