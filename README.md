@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available on my [Website](https://khodjiyev2o.github.io/Personal-website/)
 
-- 🌱 I’m currently learning CI/CD and AWS
+- 🌱 I’m currently learning React JS and AWS
   
 
 - ❓ Ask me about anything related to Django  and related technologies  
