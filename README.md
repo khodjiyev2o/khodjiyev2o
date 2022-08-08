@@ -8,7 +8,7 @@
 ### <div align="center">I'm Samandar, PYTHON (Django Back-End  developer 👨‍💻 ) </div>  
   
 
-- 🔭 I’m currently working on [Telegram Bot](https://github.com/khodjiyev2o/Google-Scraper)
+- 🔭 I’m currently working on [Telegram Bot]
 
 - 👨‍💻 All of my projects are available on my [Website](https://khodjiyev2o.github.io/Personal-website/)
 
