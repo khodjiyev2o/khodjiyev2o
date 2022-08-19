@@ -8,7 +8,7 @@
 ### <div align="center">I'm Samandar, PYTHON (Django Back-End  developer 👨‍💻 ) </div>  
   
 
-- 🔭 I’m currently solving  Leetcode and HackerRank problems.
+- 🔭 I’m currently solving  [Leetcode and HackerRank problems](https://github.com/khodjiyev2o/HackerRank).
 
 - 👨‍💻 All of my projects are available on my [Website](https://khodjiyev2o.github.io/Personal-website/)
 
