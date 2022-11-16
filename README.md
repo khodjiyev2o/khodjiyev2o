@@ -5,7 +5,7 @@
 
   
 
-### <div align="center">I'm Samandar, PYTHON (Django Back-End  developer 👨‍💻 ) </div>  
+### <div align="center">I'm Samandar, PYTHON (Back-End  developer 👨‍💻 ) </div>  
   
 
 - 🔭 I’m currently having internship  in Medduzen outsourcing company
