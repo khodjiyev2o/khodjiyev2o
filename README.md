@@ -13,10 +13,10 @@
 
 - 👨‍💻 All of my projects are available on my [Website](https://khodjiyev2o.github.io/Personal-website/)
 
-- 🌱 I’m currently learning React JS and AWS
+- 🌱 I’m currently learning React JS
   
 
-- ❓ Ask me about anything related to Django  and related technologies  
+- ❓ Ask me about anything related to Django, FastAPI  and related technologies  
   
 
 - 👨‍💻Studying Technologies Studies in Woosong University, South Korea  
