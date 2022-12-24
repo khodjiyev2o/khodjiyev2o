@@ -8,7 +8,7 @@
 ### <div align="center">I'm Samandar, PYTHON (Back-End  developer 👨‍💻 ) </div>  
   
 
-- 🔭 I’m currently having internship  in Medduzen outsourcing company
+- 🔭 I’m currently learning React and React Native
 .
 
 - 👨‍💻 All of my projects are available on my [Website](https://khodjiyev2o.github.io/Personal-website/)
