@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently learning React and React Native
 
-- Keen on solving leetcode, [check out](https://leetcode.com/samandarkhodjiyev/)
+- 👨‍💻 Keen on solving leetcode, [check out](https://leetcode.com/samandarkhodjiyev/)
 
 - ❓ Ask me about anything related to Django, FastAPI  and related technologies  
   
