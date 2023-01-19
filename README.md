@@ -9,12 +9,8 @@
   
 
 - 🔭 I’m currently learning React and React Native
-.
 
-- 👨‍💻 All of my projects are available on my [Website](https://khodjiyev2o.github.io/Personal-website/)
-
-- 🌱 I’m currently learning React JS
-  
+- Keen on solving leetcode, [check out](https://leetcode.com/samandarkhodjiyev/)
 
 - ❓ Ask me about anything related to Django, FastAPI  and related technologies  
   
