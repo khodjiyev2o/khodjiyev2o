@@ -5,19 +5,15 @@
 
   
 
-### <div align="center">I'm Samandar, PYTHON (Back-End  developer 👨‍💻 ) </div>  
+### <div align="center">I'm Samandar, Python (Backend  engineer 👨‍💻 ) </div>  
   
 
 - 🔭 I’m currently learning React and React Native
 
 - 👨‍💻 Keen on solving leetcode, [check out](https://leetcode.com/samandarkhodjiyev/)
 
-- ❓ Ask me about anything related to Django, FastAPI  and related technologies  
-  
-
 - 👨‍💻Studying Technologies Studies in Woosong University, South Korea  
   
-
 <br/>  
 
 
