@@ -8,7 +8,7 @@
 ### <div align="center">I'm Samandar, Python (Backend  engineer 👨‍💻 ) </div>  
   
 
-- 🔭 I’m currently learning React and React Native
+- 🔭 I’m currently learning  DevOps
 
 - 👨‍💻 Keen on solving leetcode, [check out](https://leetcode.com/samandarkhodjiyev/)
 
