@@ -8,11 +8,11 @@
 ### <div align="center">I'm Samandar, Python (Backend  engineer 👨‍💻 ) </div>  
   
 
-- 🔭 I’m currently learning  DevOps
+- 🔭 I’m currently learning  DevOps and Go 
 
 - 👨‍💻 Keen on solving leetcode, [check out](https://leetcode.com/samandarkhodjiyev/)
 
-- 👨‍💻Studying Technologies Studies in Woosong University, South Korea  
+- More interesting projects are on private repositories ! 
   
 <br/>  
 
